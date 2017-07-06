@@ -5,8 +5,6 @@ galaxy_info:
   company: Opstree
   license: MIT
   min_ansible_version: 1.9
-  categories:
-  - aws_cli
   platforms:
   - name: Ubuntu
     versions:
