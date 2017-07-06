@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: Sandeep
+  author: Rahul
   description: Ansible role to install aws-cli and creates credential file in .aws directory 
   company: Opstree
   license: MIT
@@ -13,4 +13,7 @@ galaxy_info:
     - precise
     - trusty
     - vivid
+  galaxy_tags:
+    - aws
+    - cli
 dependencies: []
